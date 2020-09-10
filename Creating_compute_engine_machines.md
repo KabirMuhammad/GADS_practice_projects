@@ -12,7 +12,7 @@ In this lab, you will learn how to perform the following tasks:
 
 Task 1: Sign in to the Google Cloud Platform (GCP) Console with the credentials generated for you by Google
     
-    1. Click the top right toolbar icon to activate Cloud Shell
+1. Click the top right toolbar icon to activate Cloud Shell
 
 Task 2: Create a Compute Engine virtual machine instance using the GCP console with firewall rules to allow HTTP services
 
